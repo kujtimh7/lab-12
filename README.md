@@ -1,1 +1,2 @@
 # lab-12
+I followed a simple tutorial that used Xampp and Virtual Studio code Node.js. In the application your able to access a table where you can add,edit,delete or search different columns from the table. The trickiest part for me personally was connecting to the database, but it turns out I had to make some adjustments to my directories. Examples of the project in work can be seen in the 'application' folder and all information to the database was logged in a .env file that wasn't included.
